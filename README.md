@@ -1,6 +1,6 @@
 # Liver-Fibrosis-Hybrid-Model
 
-An implementation of a hybrid model for liver fibrosis classification that combines ultrasound images with clinical data.
+An implementation of a hybrid model for liver fibrosis classification that combines ultrasound images with clinical data. 
 
 ## Key resources
 
