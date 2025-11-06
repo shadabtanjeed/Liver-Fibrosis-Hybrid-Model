@@ -60,6 +60,6 @@ An implementation of a hybrid model for liver fibrosis classification that combi
 
    Use `us_clinical_ensemble.ipynb` to run the final evaluation pipeline. This notebook combines the ultrasound model (Densenet201) and the clinical model (XGBoost) for ensemble predictions on the test set in `Hybrid_Test_Dataset/` and reports metrics.
 
-8. Explainability
+**8. Explainability**
 
    Gradient-weighted Class Activation Mapping (Grad-CAM) utilities are available in the `XAI/` folder. See `XAI/gradcam_us_densenet201.ipynb` for examples that generate visual explanations for ultrasound model predictions.
